@@ -10,7 +10,7 @@ This repository contains a collection of Digital Signal Processing (DSP) tasks, 
 1. MATLAB Software
 2. Signal Processing Toolbox
 
-## Contributing
+## Contribution
 I welcome contributions to this repository. If you have any DSP tasks that you would like to share, please submit a pull request.
 
 ## Contact
