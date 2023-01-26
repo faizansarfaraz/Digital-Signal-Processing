@@ -9,9 +9,6 @@ clf
 
 t = @(Fs, file) [1/Fs:1/Fs:length(file)/Fs]; %sets the signal increments for plotting
 
-%now decimate the signal to a lower sample rate
-%combo_Lo_Fi = decimate(combined, 4);
-%static_Lo_Fi = decimate(static, 4);
 
 %laplace of combo and static
 L_combo = fft(combined);
