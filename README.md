@@ -7,8 +7,8 @@ Filtering techniques such as Low Pass, High Pass, Band Pass and Band Stop filter
 Signal modulation techniques such as AM, FM and PM ( to be added )
 
 ## Requirements
-MATLAB Software
-Signal Processing Toolbox
+*MATLAB Software
+*Signal Processing Toolbox
 
 ## Contributing
 I welcome contributions to this repository. If you have any DSP tasks that you would like to share, please submit a pull request.
