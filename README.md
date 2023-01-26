@@ -2,9 +2,9 @@
 This repository contains a collection of Digital Signal Processing (DSP) tasks, implemented in the MATLAB programming language. The focus of this repository is to provide clear and well-documented code for educational and research purposes and to serve as my Hub of submitted DSP tasks.
 
 ## Contents
-Spectral analysis techniques such as FFT 
-Filtering techniques such as Low Pass, High Pass, Band Pass and Band Stop filters ( to be added )
-Signal modulation techniques such as AM, FM and PM ( to be added )
+-Spectral analysis techniques such as FFT 
+*Filtering techniques such as Low Pass, High Pass, Band Pass and Band Stop filters ( to be added )
++Signal modulation techniques such as AM, FM and PM ( to be added )
 
 ## Requirements
 1. MATLAB Software
